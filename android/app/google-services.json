@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "264582295901",
+    "project_id": "flutter-auth-practice-1cdf9",
+    "storage_bucket": "flutter-auth-practice-1cdf9.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:264582295901:android:71754eb220502a0405f8b4",
+        "android_client_info": {
+          "package_name": "com.saintmim.test"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCECcFF7ItN6E8Tn3C5GJHxtv7Q7D94OeY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
